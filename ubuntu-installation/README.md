@@ -12,6 +12,11 @@ also avoiding errors? This readme.md  file will help explain how this "Ubuntu in
 
 ## **Prerequisites/Pre-requirements**
 
+```javascript
+function helloWorld() {
+  console.log("Hello, world!");
+}
+```
 
 
 
