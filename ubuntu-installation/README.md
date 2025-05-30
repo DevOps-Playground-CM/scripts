@@ -22,5 +22,5 @@ Minimum 1 CPU cores
 
 At least 8 GB of free disk space for Jenkins and its dependencies
 
-Stable Internet connection to download dependencies and SonarQube binaries
+Stable Internet connection to download dependencies and Jenkins binaries
 
