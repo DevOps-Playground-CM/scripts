@@ -39,4 +39,4 @@ also avoiding errors? This readme.md  file will help explain how this "Ubuntu in
 Jenkins URL: `http://3.80.131.181:8080`
 Jenkins initial admin password: `2591bdaa272e4c769d099f646dd761e6`
 - Copy the  Jenkins URL to access the server.
-- Copy the adminpass word and login to the Jenkins server.
+- Copy the admin pass word and login to the Jenkins server.
