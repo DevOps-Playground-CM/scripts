@@ -33,7 +33,7 @@ also avoiding errors? This readme.md  file will help explain how this "Ubuntu in
 
  ## **Accessing the server**
 - You find the public ip after the script has been executed.
-- Access SonarQube via: http://<your_server_ip>:8080
+- Access jenkins server via: `http://<your_server_ip>:8080`
 
 Default login credentials
 Username: admin
