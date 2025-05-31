@@ -6,7 +6,7 @@ also avoiding errors? This readme.md  file will help explain how this "Ubuntu in
 
 ## **Content**
 
-`install.sh`  Installion script.
+`install.sh`  Installation script.
 
 `README.md` Documentation.
 
