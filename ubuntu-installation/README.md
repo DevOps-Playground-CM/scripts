@@ -24,3 +24,5 @@ also avoiding errors? This readme.md  file will help explain how this "Ubuntu in
 
 - Stable Internet connection to download dependencies and Jenkins binaries
 
+## **How to use this script**
+
