@@ -26,3 +26,18 @@ also avoiding errors? This readme.md  file will help explain how this "Ubuntu in
 
 ## **How to use this script**
 
+- You can clone this folder from `git clone https://github.com/DevOps-Playground-CM/scripts.git`
+- cd scripts/install.sh
+- Run chmod +x install.sh to grant executable permission to the script.
+Run the script according to your OS
+Access
+To find your server's public IP address, run:
+
+curl -s http://ipinfo.io/ip
+
+Access SonarQube via: http://<your_server_ip>:9000
+
+Default login credentials
+Username: admin
+
+Password: admin
